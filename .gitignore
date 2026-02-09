@@ -1,0 +1,14 @@
+# Binários
+bin/skuld-core
+
+# Dados e Logs
+data/*.db
+logs/*.log
+
+# Configurações sensíveis (Usuário deve criar a sua)
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
